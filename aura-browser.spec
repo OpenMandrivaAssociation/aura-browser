@@ -22,6 +22,7 @@ BuildRequires:	pkgconfig(Qt5Quick)
 BuildRequires:	pkgconfig(Qt5Multimedia)
 BuildRequires:	pkgconfig(Qt5WebEngine)
 BuildRequires:	pkgconfig(Qt5WebEngineCore)
+BuildRequires:	pkgconfig(Qt5QuickControls2)
 Suggests:	plasma-bigscreen
 Suggests:	plasma-remotecontrollers
 Supplements:	plasma-bigscreen
