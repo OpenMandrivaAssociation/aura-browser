@@ -2,7 +2,7 @@
 
 Summary:	Web browser optimized for full screen TV with remote control interface
 Name:		aura-browser
-Version:	5.26.5
+Version:	5.27.0
 Release:	1
 License:	LGPL
 Group:		System/Libraries
@@ -32,9 +32,9 @@ Web browser optimized for full screen TV with remote control interface
 
 %files -f %{name}.lang
 %{_bindir}/aura-browser
-%{_datadir}/applications/org.aura.browser.desktop
 %{_datadir}/icons/hicolor/*/apps/aura-browser.png
 %{_datadir}/metainfo/org.kde.invent.aura_browser.metainfo.xml
+%{_datadir}/applications/org.kde.aura-browser.desktop
 
 #----------------------------------------------------------------------------
 
