@@ -2,7 +2,7 @@
 
 Summary:	Web browser optimized for full screen TV with remote control interface
 Name:		aura-browser
-Version:	5.27.6
+Version:	5.27.7
 Release:	1
 License:	LGPL
 Group:		System/Libraries
